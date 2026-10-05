@@ -8,7 +8,7 @@
 
 </div>
 
-> **Release status.** This repository is the project landing page. The implementation is being prepared. Model access is by request; the dataset page and files are being prepared and validated. We plan to make the project resources openly available after the paper is accepted, subject to the permissions of the underlying data sources. The linked arXiv record may currently show an earlier manuscript version.
+> **Release status.** This repository is the project landing page. The implementation is being prepared. Model access requires a manually reviewed request. The dataset page is live, but its files are still being validated and have not been uploaded. We plan to make the project resources openly available after the paper is accepted, subject to the permissions of the underlying data sources. The linked arXiv record may currently show an earlier manuscript version.
 
 ## Overview
 
@@ -49,7 +49,7 @@ Accuracy is micro-averaged over applicable VQA instances. External accuracy is e
 | :-- | :-- | :-- |
 | Paper | [arXiv:2602.01081](https://arxiv.org/abs/2602.01081) | The public arXiv version may lag the revised manuscript summarized here. |
 | Code | [GitHub: zhtstar/MedAD-R1](https://github.com/zhtstar/MedAD-R1) | Implementation in preparation. |
-| Dataset | [Hugging Face: zhtstar/MedAD-38K](https://huggingface.co/datasets/zhtstar/MedAD-38K) | Dataset page and validated files forthcoming; access will initially require a request. |
+| Dataset | [Hugging Face: zhtstar/MedAD-38K](https://huggingface.co/datasets/zhtstar/MedAD-38K) | Information page is live; validated files forthcoming, with manual access review. |
 | Model | [Hugging Face: zhtstar/MedAD-R1](https://huggingface.co/zhtstar/MedAD-R1) | Access by request while the paper is under review. |
 
 ## Citation
